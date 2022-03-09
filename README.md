@@ -8,7 +8,7 @@
 - [Acknowledgements](https://github.com/OOkechukwu/Business-performance-analysis-project/edit/main/README.md#acknowledgements)
 
 #### Project motivation
-Given my vast knowledge and experience in business decision making process gained from my years of experience at Deloitte where I helped companies across different industries make critical operation/management/financial planning-related decisions, I was interested in analysing business related data in order to come up with deep insights on the overall business performance.
+My vast knowledge in business decision making process gained from my years of experience at Deloitte where I helped companies across different industries make critical operation/management/financial planning-related decisions fueled my interest in analysing business related data in order to come up with deep insights on the overall business performance.
 
 #### Data source
 This project was completed as the major project for completion of Udemy's business intelligence course
